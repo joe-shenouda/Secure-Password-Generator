@@ -1,7 +1,7 @@
 import string
 import secrets
 
-def generate_secure_password(length=12, include_uppercase=True, include_numbers=True, include_special_chars=True):
+def generate_secure_password(length=16, include_uppercase=True, include_numbers=True, include_special_chars=True):
     # Define character sets
     lowercase_letters = string.ascii_lowercase
     uppercase_letters = string.ascii_uppercase if include_uppercase else ""
