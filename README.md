@@ -19,7 +19,7 @@ The Secure Password Generator is a lightweight, single-file Python script design
 3. Navigate to the directory containing the script.
 4. Run the following command to generate a secure password with the default settings:
 
-```bash
+
 python secure_password_generator.py
 
 ## Customization
