@@ -33,6 +33,10 @@ You can customize the password requirements by modifying the following values in
 
 After modifying these values, save the script and run it as described in the "Usage" section.
 
+## License
+
+This project is released under the [MIT License](https://opensource.org/licenses/MIT).
+
 ## Support
 
 If you would like to support this project, you can make a donation through PayPal:
@@ -41,6 +45,4 @@ If you would like to support this project, you can make a donation through PayPa
 
 Don't forget to give this repo a ✨ STAR!
 
-## License
 
-This project is released under the [MIT License](https://opensource.org/licenses/MIT).
