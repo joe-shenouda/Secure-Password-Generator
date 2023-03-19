@@ -22,6 +22,17 @@ The Secure Password Generator is a lightweight, single-file Python script design
 ```bash
 python secure_password_generator.py
 
+## Customization
+
+You can customize the password requirements by modifying the following values in the `secure_password_generator.py` script:
+
+- `password_length`: Desired length of the generated password (default: 16)
+- `include_uppercase`: Include uppercase letters in the password (default: True)
+- `include_numbers`: Include numbers in the password (default: True)
+- `include_special_chars`: Include special characters in the password (default: True)
+
+After modifying these values, save the script and run it as described in the "Usage" section.
+
 ## Support
 
 If you would like to support this project, you can make a donation through PayPal:
@@ -29,3 +40,7 @@ If you would like to support this project, you can make a donation through PayPa
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.com/donate/?business=P9L4Y9YQYEW3Y&no_recurring=0&currency_code=EUR)
 
 Don't forget to give this repo a ✨ STAR!
+
+## License
+
+This project is released under the [MIT License](https://opensource.org/licenses/MIT).
